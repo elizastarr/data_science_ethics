@@ -118,6 +118,8 @@ The set of ethical questions added to this form can be created by the team or se
 3. Data Limitations: Are there any limitations to this data? How will they be dealt with?
 4. Data Project Users: Who are the users of the insight, model, or new service?
 
+![Fig1](https://github.com/elizastarr/data_science_ethics/blob/master/images/fig1.png)
+
 Figure 1. The “Create issue” form adapted to be a data science workbook.
 
 Figure 2 shows an example issue ticket created with the new “Create issue” form from Figure 1. This ticket represents a project called Probability to Transact. The right column of the ticket displays the answered ethical questions. The following answers were given.
