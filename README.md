@@ -163,22 +163,22 @@ As companies establish data science teams, they should create data science pract
 
 ### 8. Bibliography
 
-Alipourfard, N. (2018, December 28). Trend Simpson's Paradox [Computer software]. Retrieved April 2, 2019, from https://github.com/ninoch/Trend-Simpsons-Paradox/
-Assembly Bill No. 375. (2018, June 29). Retrieved April 4, 2019, from https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375
-Data Ethics Framework. (2018, June 13). Retrieved April 4, 2019, from https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework
-General Data Protection Regulation. (n.d.). Retrieved April 4, 2019, from https://gdpr-info.eu/
-Global Data Ethics Project. (2018, November 25). Retrieved April 5, 2019, from https://www.datafordemocracy.org/project/global-data-ethics-project
-Gupta, B. (2015, October). KDnuggets. Retrieved March 14, 2019, from https://www.kdnuggets.com/2015/10/ethics-data-analytics.html
-Isaak, J., & Hanna, M. J. (2018). User Data Privacy: Facebook, Cambridge Analytica, and Privacy Protection. IEEE Computer, 51(8), 56-59. doi:10.1109/mc.2018.3191268
-Johnson, S. (2019, January 11). University Data Science Programs Turn to Ethics and the Humanities - EdSurge News. Retrieved March 5, 2019, from https://www.edsurge.com/news/2019-01-11-university-data-science-programs-turn-to-ethics-and-the-humanities
-Leetaru, K. (2018, October 10). Do We Need To Teach Ethics And Empathy To Data Scientists? Retrieved March 5, 2019, from https://www.forbes.com/sites/kalevleetaru/2018/10/08/do-we-need-to-teach-ethics-and-empathy-to-data-scientists/#3e04fa7312ee
-NAR Legal Affairs. (2018, May). General Data Protection Regulation: New EU Data Privacy Law May Affect U.S. Businesses. Retrieved April 4, 2019, from https://www.nar.realtor/legal/general-data-protection-regulation-new-eu-data-privacy-law-may-affect-us-businesses
-Simberkoff, D. (2018, August 30). How Facebook's Cambridge Analytica Scandal Impacted the Intersection of Privacy and Regulation. Retrieved April 2, 2019, from https://www.cmswire.com/information-management/how-facebooks-cambridge-analytica-scandal-impacted-the-intersection-of-privacy-and-regulation/
-Touw, S. (2018, June 22). Ethical Data Science Is Good Data Science. Retrieved March 5, 2019, from https://www.datanami.com/2018/06/22/ethical-data-science-is-good-data-science/
-Troiani, M. L. (2018, June 27). What is GDPR and Why Should It Matter to Real Estate Professionals? Retrieved April 2, 2019, from https://www.nvar.com/realtors/laws-ethics/legal-blog/what-is-gdpr-and-why-should-it-matter-to-real-estate-professionals
-University of Chicago. (2018). Aequitas. Retrieved March 28, 2019, from https://dsapp.uchicago.edu/projects/aequitas/
-Wheeler, S. (2018, August 30). Ethical codes vs. ethical code. Retrieved March 5, 2019, from https://towardsdatascience.com/ethical-codes-vs-ethical-code-fea118987a5
-Woodie, A. (2017, October 25). Keeping Your Models on the Straight and Narrow. Retrieved March 5, 2019, from https://www.datanami.com/2017/10/24/keeping-models-straight-narrow/
+- Alipourfard, N. (2018, December 28). Trend Simpson's Paradox [Computer software]. Retrieved April 2, 2019, from https://github.com/ninoch/Trend-Simpsons-Paradox/
+- Assembly Bill No. 375. (2018, June 29). Retrieved April 4, 2019, from https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375
+- Data Ethics Framework. (2018, June 13). Retrieved April 4, 2019, from https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework
+- General Data Protection Regulation. (n.d.). Retrieved April 4, 2019, from https://gdpr-info.eu/
+- Global Data Ethics Project. (2018, November 25). Retrieved April 5, 2019, from https://www.datafordemocracy.org/project/global-data-ethics-project
+- Gupta, B. (2015, October). KDnuggets. Retrieved March 14, 2019, from https://www.kdnuggets.com/2015/10/ethics-data-analytics.html
+- Isaak, J., & Hanna, M. J. (2018). User Data Privacy: Facebook, Cambridge Analytica, and Privacy Protection. IEEE Computer, 51(8), 56-59. doi:10.1109/mc.2018.3191268
+- Johnson, S. (2019, January 11). University Data Science Programs Turn to Ethics and the Humanities - EdSurge News. Retrieved March 5, 2019, from https://www.edsurge.com/news/2019-01-11-university-data-science-programs-turn-to-ethics-and-the-humanities
+- Leetaru, K. (2018, October 10). Do We Need To Teach Ethics And Empathy To Data Scientists? Retrieved March 5, 2019, from https://www.forbes.com/sites/kalevleetaru/2018/10/08/do-we-need-to-teach-ethics-and-empathy-to-data-scientists/#3e04fa7312ee
+- NAR Legal Affairs. (2018, May). General Data Protection Regulation: New EU Data Privacy Law May Affect U.S. Businesses. Retrieved April 4, 2019, from https://www.nar.realtor/legal/general-data-protection-regulation-new-eu-data-privacy-law-may-affect-us-businesses
+- Simberkoff, D. (2018, August 30). How Facebook's Cambridge Analytica Scandal Impacted the Intersection of Privacy and Regulation. Retrieved April 2, 2019, from https://www.cmswire.com/information-management/how-facebooks-cambridge-analytica-scandal-impacted-the-intersection-of-privacy-and-regulation/
+- Touw, S. (2018, June 22). Ethical Data Science Is Good Data Science. Retrieved March 5, 2019, from https://www.datanami.com/2018/06/22/ethical-data-science-is-good-data-science/
+- Troiani, M. L. (2018, June 27). What is GDPR and Why Should It Matter to Real Estate Professionals? Retrieved April 2, 2019, from https://www.nvar.com/realtors/laws-ethics/legal-blog/what-is-gdpr-and-why-should-it-matter-to-real-estate-professionals
+- University of Chicago. (2018). Aequitas. Retrieved March 28, 2019, from https://dsapp.uchicago.edu/projects/aequitas/
+- Wheeler, S. (2018, August 30). Ethical codes vs. ethical code. Retrieved March 5, 2019, from https://towardsdatascience.com/ethical-codes-vs-ethical-code-fea118987a5
+- Woodie, A. (2017, October 25). Keeping Your Models on the Straight and Narrow. Retrieved March 5, 2019, from https://www.datanami.com/2017/10/24/keeping-models-straight-narrow/
 
 ### 9. Appendix
 
