@@ -1,5 +1,5 @@
 # Data Science Ethics
-## Proposing an ethics framework for data scientists.
+### Proposing an ethics framework for data scientists.
 
 Eliza R. Starr	
 
@@ -118,7 +118,7 @@ The set of ethical questions added to this form can be created by the team or se
 
 
 ![Fig1](https://github.com/elizastarr/data_science_ethics/blob/master/images/fig1.png)
-Figure 1. The “Create issue” form adapted to be a data science workbook.
+*Figure 1. The “Create issue” form adapted to be a data science workbook.*
 
 
 Figure 2 shows an example issue ticket created with the new “Create issue” form from Figure 1. This ticket represents a project called Probability to Transact. The right column of the ticket displays the answered ethical questions. The following answers were given.
@@ -132,7 +132,7 @@ These questions can be answered in as little or as much detail as the data scien
 
 
 ![Fig2](https://github.com/elizastarr/data_science_ethics/blob/master/images/fig2.png)
-Figure 2. An example data science issue with the ethics workbook fields filled out.
+*Figure 2. An example data science issue with the ethics workbook fields filled out.*
 
 
 The ticket from Figure 2 is shown below in Figure 3. The ticket has been moved from the “Backlog,” where newly created issue tickets are placed in this Jira environment, to the “Obtain / Explore / Clean” pipeline. 
@@ -150,7 +150,8 @@ These stages do not encompass the workflow required by all data science projects
 
 A workflow customization like this would give data science work more transparency. Jira can record Pipeline changes so that the progression of data science projects are recorded. This metadata tracks how and when data is being used though each project’s life cycle.
 
-Figure 3. The example issue in the “Obtain / Explore / Clean” stage of the data science workflow.
+![Fig3](https://github.com/elizastarr/data_science_ethics/blob/master/images/fig3.png)
+*Figure 3. The example issue in the “Obtain / Explore / Clean” stage of the data science workflow.*
 
 Figures 4-8 in the Appendix show how the custom fields and workflow were added to Jira.
 
@@ -159,3 +160,43 @@ Figures 4-8 in the Appendix show how the custom fields and workflow were added t
 Data ethics are a growing concern of governments and of the public as a result of recent data breaches and scandals. Policies like the General Data Protection Regulation (GDPR) have been drafted and enacted to regulate an increasingly data-driven world. Adopting additional data ethics precautions can only benefit companies in this changing environment. 
 
 As companies establish data science teams, they should create data science practices that will instill a sense of ethical responsibility in their growing team. Solutions include ethical training, a code of ethics, a project flagging system, bias-checking software, reputation-influencing websites, and ethics workbooks. Companies could easily create an integrated, customized data ethics workbook in their issue and project tracking software. Proactively introducing this workbook will protect companies and their users from legal and social risks in the future.
+
+### 8. Bibliography
+
+Alipourfard, N. (2018, December 28). Trend Simpson's Paradox [Computer software]. Retrieved April 2, 2019, from https://github.com/ninoch/Trend-Simpsons-Paradox/
+Assembly Bill No. 375. (2018, June 29). Retrieved April 4, 2019, from https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375
+Data Ethics Framework. (2018, June 13). Retrieved April 4, 2019, from https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework
+General Data Protection Regulation. (n.d.). Retrieved April 4, 2019, from https://gdpr-info.eu/
+Global Data Ethics Project. (2018, November 25). Retrieved April 5, 2019, from https://www.datafordemocracy.org/project/global-data-ethics-project
+Gupta, B. (2015, October). KDnuggets. Retrieved March 14, 2019, from https://www.kdnuggets.com/2015/10/ethics-data-analytics.html
+Isaak, J., & Hanna, M. J. (2018). User Data Privacy: Facebook, Cambridge Analytica, and Privacy Protection. IEEE Computer, 51(8), 56-59. doi:10.1109/mc.2018.3191268
+Johnson, S. (2019, January 11). University Data Science Programs Turn to Ethics and the Humanities - EdSurge News. Retrieved March 5, 2019, from https://www.edsurge.com/news/2019-01-11-university-data-science-programs-turn-to-ethics-and-the-humanities
+Leetaru, K. (2018, October 10). Do We Need To Teach Ethics And Empathy To Data Scientists? Retrieved March 5, 2019, from https://www.forbes.com/sites/kalevleetaru/2018/10/08/do-we-need-to-teach-ethics-and-empathy-to-data-scientists/#3e04fa7312ee
+NAR Legal Affairs. (2018, May). General Data Protection Regulation: New EU Data Privacy Law May Affect U.S. Businesses. Retrieved April 4, 2019, from https://www.nar.realtor/legal/general-data-protection-regulation-new-eu-data-privacy-law-may-affect-us-businesses
+Simberkoff, D. (2018, August 30). How Facebook's Cambridge Analytica Scandal Impacted the Intersection of Privacy and Regulation. Retrieved April 2, 2019, from https://www.cmswire.com/information-management/how-facebooks-cambridge-analytica-scandal-impacted-the-intersection-of-privacy-and-regulation/
+Touw, S. (2018, June 22). Ethical Data Science Is Good Data Science. Retrieved March 5, 2019, from https://www.datanami.com/2018/06/22/ethical-data-science-is-good-data-science/
+Troiani, M. L. (2018, June 27). What is GDPR and Why Should It Matter to Real Estate Professionals? Retrieved April 2, 2019, from https://www.nvar.com/realtors/laws-ethics/legal-blog/what-is-gdpr-and-why-should-it-matter-to-real-estate-professionals
+University of Chicago. (2018). Aequitas. Retrieved March 28, 2019, from https://dsapp.uchicago.edu/projects/aequitas/
+Wheeler, S. (2018, August 30). Ethical codes vs. ethical code. Retrieved March 5, 2019, from https://towardsdatascience.com/ethical-codes-vs-ethical-code-fea118987a5
+Woodie, A. (2017, October 25). Keeping Your Models on the Straight and Narrow. Retrieved March 5, 2019, from https://www.datanami.com/2017/10/24/keeping-models-straight-narrow/
+
+### 9. Appendix
+
+Jira custom field and workflow creation processes.
+
+![Fig4](https://github.com/elizastarr/data_science_ethics/blob/master/images/fig4.png)
+*Figure 4. The Create Issue prompt before adding custom fields.*
+
+![Fig5](https://github.com/elizastarr/data_science_ethics/blob/master/images/fig5.png)
+*Figure 5. Creating a custom field.*
+
+![Fig6](https://github.com/elizastarr/data_science_ethics/blob/master/images/fig6.png)
+*Figure 6. Adding a field configuration.*
+
+![Fig7](https://github.com/elizastarr/data_science_ethics/blob/master/images/fig7.png)
+*Figure 7. Editing a field configuration.*
+
+![Fig8](https://github.com/elizastarr/data_science_ethics/blob/master/images/fig8.png)
+*Figure 8. Changing the Data project’s board to represent the Data Science workflow.*
+
+
